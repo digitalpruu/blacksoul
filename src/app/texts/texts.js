@@ -1,4 +1,4 @@
-const title = "Titulo del emprendimiento";
+const title = "BlackSoul";
 const email = "Email del ";
 const mensajeWhatsApp = encodeURIComponent(
     `¡Hola! Estoy muy interesado en tus productos de ${title} y me gustaría recibir más información sobre ellos. Espero poder hablar pronto contigo para aclarar algunas dudas. ¡Gracias!`
