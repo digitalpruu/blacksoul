@@ -1,4 +1,4 @@
-const title = "Blacksoul";
+const title = "prueba";
 const email = ""; // No se proporcionó email
 const mensajeWhatsApp = encodeURIComponent(
     "¡Hola! Estoy interesado en conocer más sobre los productos de " + title + " y me gustaría obtener más información. ¡Gracias!"
