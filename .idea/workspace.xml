@@ -46,7 +46,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/blacksoul",
+    "last_opened_file_path": "/Users/kevinpicon/Documents/Proyecto/blacksoul/public/assets",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -97,7 +97,7 @@
       <workItem from="1726374102330" duration="21740000" />
       <workItem from="1726909255522" duration="353000" />
       <workItem from="1727476178477" duration="1698000" />
-      <workItem from="1728021605735" duration="5000" />
+      <workItem from="1728021605735" duration="176000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
